@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# fundamentals Project
+## fundamentals Project Structure
 
 *Default Structure for A Basic Project*
 
